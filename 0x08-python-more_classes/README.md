@@ -1,0 +1,3 @@
+This projects covers the use of Objects Oriented Programing(OOP).Unlike procedural programming where programmers can write program and execute the lines of codes one by one. OOP enable programmers to write complex codes without needs to know the design of the function or methods. The concept of OOP is base on object creation. The superclass is called the base class where other subclasses inherite the property of the class. The class instance is created which is called variable, methods that we called functions in procedural programing. 
+
+Here in this project we will try to create superclass, instances, methods and class variable.
